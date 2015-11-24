@@ -13,3 +13,5 @@ int main(void){
   return 0;
 }
 
+void show(int a){
+  printf("%d\n", a;
